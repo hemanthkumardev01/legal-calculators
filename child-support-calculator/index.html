@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Child Support Calculator</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<h1>Child Support Calculator</h1>
+
+<div class="container">
+
+  <div class="row">
+    <div class="box">
+      <h2>Custodial Parent</h2>
+      <input type="number" id="input_7_1" placeholder="Income">
+      <input type="number" id="input_7_8" placeholder="% Time with Child">
+    </div>
+
+    <div class="box">
+      <h2>Non Custodial Parent</h2>
+      <input type="number" id="input_7_16" placeholder="Income">
+      <input type="number" id="input_7_20" placeholder="% Time with Child">
+    </div>
+  </div>
+
+  <div class="box full">
+    <h2>Children</h2>
+    <input type="number" id="input_7_24" placeholder="Number of Children">
+  </div>
+
+  <div class="results">
+    <h3>Results</h3>
+    <p>Monthly Support: <span id="monthly">$0.00</span></p>
+    <p>Annual Support: <span id="annual">$0.00</span></p>
+  </div>
+
+</div>
+
+<script src="child.js"></script>
+</body>
+</html>
