@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Refund / Buyback Calculator</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<h1>Refund / Buyback Calculator</h1>
+
+<div class="container">
+
+  <div class="box full">
+    <h2>Vehicle Information</h2>
+
+    <input type="number" id="price" placeholder="Purchase Price">
+    <input type="number" id="miles" placeholder="Miles at First Repair">
+    <input type="number" id="down" placeholder="Down Payment">
+    <input type="number" id="monthly" placeholder="Monthly Payment">
+    <input type="number" id="payments" placeholder="Total Payments Made">
+
+  </div>
+
+  <div class="results">
+    <h3>Results</h3>
+
+    <p>Usage Fee: <span id="usage">$0.00</span></p>
+    <p>Total Paid: <span id="paid">$0.00</span></p>
+    <p><strong>Estimated Refund: <span id="refund">$0.00</span></strong></p>
+
+  </div>
+
+</div>
+
+<script src="refund.js"></script>
+</body>
+</html>
