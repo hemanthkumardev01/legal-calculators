@@ -25,7 +25,7 @@ A collection of interactive legal calculators built using JavaScript.
 [Spousal Calculator](screenshots/spousal.png)
 
 ## 🚀 Live Demo
-(Enable GitHub Pages to view)
+[hemanthkumardev01.github.io/legal-calculators/](https://hemanthkumardev01.github.io/legal-calculators/)
 
 ## ⚠️ Disclaimer
 These calculators provide estimates only and are not legal advice.
