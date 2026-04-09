@@ -1,2 +1,31 @@
-# legal-calculators
-Dynamic Legal calculators built using JavaScript and Gravity Forms.
+# ⚖️ Legal Calculators Toolkit
+
+A collection of interactive legal calculators built using JavaScript.
+
+## 🔧 Calculators Included
+
+### 1. Child Support Calculator
+- Calculates support based on income & custody %
+- Real-time updates
+
+### 2. Spousal Support Calculator
+- Based on income difference
+- Monthly & annual breakdown
+
+## 💻 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Calculator Logic
+- Form Processing
+
+## 📸 Preview
+
+![Child Calculator](screenshots/child.png)
+![Spousal Calculator](screenshots/spousal.png)
+
+## 🚀 Live Demo
+(Enable GitHub Pages to view)
+
+## ⚠️ Disclaimer
+These calculators provide estimates only and are not legal advice.
