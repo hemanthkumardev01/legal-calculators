@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Spousal Support Calculator</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<h1>Spousal Support Calculator</h1>
+
+<div class="container">
+
+  <div class="row">
+    <div class="box">
+      <h2>Spouse 1</h2>
+      <input type="number" id="income1" placeholder="Income">
+      <input type="number" id="child1" placeholder="Child Support Paid">
+      <input type="number" id="ins1" placeholder="Insurance">
+    </div>
+
+    <div class="box">
+      <h2>Spouse 2</h2>
+      <input type="number" id="income2" placeholder="Income">
+      <input type="number" id="child2" placeholder="Child Support Paid">
+      <input type="number" id="ins2" placeholder="Insurance">
+    </div>
+  </div>
+
+  <div class="results">
+    <h3>Results</h3>
+    <p>Monthly Support: <span id="monthly">$0.00</span></p>
+    <p>Annual Support: <span id="annual">$0.00</span></p>
+  </div>
+
+</div>
+
+<script src="spousal.js"></script>
+</body>
+</html>
