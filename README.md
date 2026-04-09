@@ -21,8 +21,8 @@ A collection of interactive legal calculators built using JavaScript.
 
 ## 📸 Preview
 
-![Child Calculator](screenshots/child.png)
-![Spousal Calculator](screenshots/spousal.png)
+[Child Calculator](screenshots/child.png) <br>
+[Spousal Calculator](screenshots/spousal.png)
 
 ## 🚀 Live Demo
 (Enable GitHub Pages to view)
