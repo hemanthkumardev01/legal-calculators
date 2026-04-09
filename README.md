@@ -12,6 +12,9 @@ A collection of interactive legal calculators built using JavaScript.
 - Based on income difference
 - Monthly & annual breakdown
 
+### 3. Lemon Law Refund Calculator
+Estimates vehicle buyback/refund amount based on usage and payments.
+
 ## 💻 Tech Stack
 - HTML
 - CSS
