@@ -19,6 +19,13 @@ A collection of interactive legal calculators built using JavaScript.
 - Calculator Logic
 - Form Processing
 
+## ✨ Features
+
+- Real-time calculations
+- Responsive design
+- Clean UI
+- Multiple legal tools
+
 ## 📸 Preview
 
 [Child Calculator](screenshots/child.png) <br>
